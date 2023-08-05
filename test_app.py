@@ -1,7 +1,3 @@
-import pathlib
-
-import pydicom
-
 import streamlit as st
 
 
