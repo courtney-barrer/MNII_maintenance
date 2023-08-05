@@ -1,10 +1,9 @@
 
 import numpy as np
-import matplotlib.pyplot as plt
 import sympy as sp
 import scipy.signal as sig
 import control
-
+import matplotlib.pyplot as plt
 import graphviz
 
 z_control = None
